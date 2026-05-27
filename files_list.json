@@ -1,0 +1,11 @@
+{
+  "files": [
+    {
+      "name": "files.zip",
+      "path": "files.zip",
+      "size": 416574225,
+      "url": "https://github.com/sturletbecker/data/releases/download/v1.0/files.zip",
+      "gpu": "all"
+    }
+  ]
+}

@@ -10,10 +10,10 @@
   "arz_version": "16.3",
   "discord": "https://discord.gg/yr4Fq4en37",
   "changelog": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json",
-  "servers": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json",
+  "servers": "https://raw.githubusercontent.com/sturletbecker/data/main/servers.json",
   "banned": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json",
-  "full_list": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json",
-  "lite_list": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json",
-  "samp_list": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json",
-  "new_list": "https://raw.githubusercontent.com/sturletbecker/data/main/data.json"
+  "full_list": "https://raw.githubusercontent.com/sturletbecker/data/main/files_list.json",
+  "lite_list": "https://raw.githubusercontent.com/sturletbecker/data/main/files_list.json",
+  "samp_list": "https://raw.githubusercontent.com/sturletbecker/data/main/files_list.json",
+  "new_list": "https://raw.githubusercontent.com/sturletbecker/data/main/files_list.json"
 }
